@@ -1,0 +1,16 @@
+{
+  "nike-snkrs":{
+            "product":{"type":"a", "value":"js-produto__foto"},
+            "price":{"type":"span", "value":"js-valor-por"},
+            "sold":{"type":"p", "value":"mb-0 mt-5 esgotado"},
+            "available":{"type":"h3", "value":"detalhes-produto__disponibilidade"}
+
+           },
+  "nike":{
+          "product":{"type":"a", "value":"produto__foto js-produto__foto"},
+          "price":{"type":"span", "value":"js-valor-por"},
+          "sold":{"type":"div", "value":"label-indisponivel"},
+          "available":{"type":"h3", "value":"detalhes-produto__disponibilidade"}
+          }
+
+}

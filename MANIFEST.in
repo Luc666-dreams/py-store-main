@@ -1,0 +1,4 @@
+include *.md
+include LICENSE
+include store/model/*.py
+include store/json/*.json
